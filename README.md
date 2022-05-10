@@ -4,7 +4,7 @@ Hi 👋 My name is Lennon Cruz
 Aspiring Software Engineer
 --------------------------
 
-I'm currently studying Computer Science at UC Davis, and have primarily been learning Web Development.
+I'm currently studying Computer Science at UC Davis, and have primarily been learning Backend Development.
 
 *   🌍  I'm based in Davis, CA
 *   ✉️  You can contact me at [lennon.c.cruz@gmail.com](mailto:lennon.c.cruz@gmail.com)
