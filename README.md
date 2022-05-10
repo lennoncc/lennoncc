@@ -8,7 +8,7 @@ I'm currently studying Computer Science at UC Davis, and have primarily been lea
 
 *   🌍  I'm based in Davis, CA
 *   ✉️  You can contact me at [lennon.c.cruz@gmail.com](mailto:lennon.c.cruz@gmail.com)
-*   🚀  I'm currently working on [A Blog Site that utilizes Strapi and Heroku](http://lennoncc.dev)
+*   🚀  I'm currently working on [A Blog that utilizes Next.js, Strapi, and Heroku](http://lennoncc.dev)
 *   🧠  I'm learning Next.js
 ### Skills<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
