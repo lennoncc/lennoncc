@@ -1,8 +1,5 @@
-Hi 👋 My name is Lennon Cruz
+Hello! 👋 My name is Lennon Cruz
 ============================
-
-Aspiring Software Engineer
---------------------------
 
 I'm currently studying Computer Science at UC Davis, and have primarily been learning Backend Development.
 
