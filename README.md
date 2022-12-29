@@ -1,7 +1,7 @@
 Hello! 👋 My name is Lennon Cruz
 ============================
 
-I'm currently studying Computer Science at UC Davis!
+I recently finished a B.S. in Computer Science at UC Davis!
 
 *   🌍  I'm based in Davis, CA
 *   ✉️  You can contact me at [lennon.c.cruz@gmail.com](mailto:lennon.c.cruz@gmail.com)
