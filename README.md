@@ -5,8 +5,8 @@ I recently finished a B.S. in Computer Science at UC Davis!
 
 *   🌍  I'm based in Davis, CA
 *   ✉️  You can contact me at [lennon.c.cruz@gmail.com](mailto:lennon.c.cruz@gmail.com)
-*   🚀  I'm currently working on [A Personal Site!](http://lennoncc.dev)
-*   🧠  I just finished working on [Reclaim](https://lennoncc.github.io/Reclaim/), a combat rhythm game!
+*   🚀  I'm currently working on [CalendarRPC, a way to sync Discord's Rich Presence and Google Calendar.](https://github.com/lennoncc/CalendarRPC)
+*   🧠  I just finished working on a [Personal Site](https://lennoncc.dev)!
 ### Skills<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
