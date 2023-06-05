@@ -5,7 +5,7 @@ I recently finished a B.S. in Computer Science at UC Davis!
 
 *   🌍  I'm based in Davis, CA
 *   ✉️  You can contact me at [lennon.c.cruz@gmail.com](mailto:lennon.c.cruz@gmail.com)
-*   🚀  I'm currently working on [CalendarRPC, a way to sync Discord's Rich Presence and Google Calendar.](https://github.com/lennoncc/CalendarRPC)
+*   🚀  I'm currently working on a networking project, where I plan to build a [DNS Client and Server](https://github.com/lennoncc/dnsproject) from scratch using Python's Socket API.
 *   🧠  I just finished working on a [Personal Site](https://lennoncc.dev)!
 ### Skills<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
